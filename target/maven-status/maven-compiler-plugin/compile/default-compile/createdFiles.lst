@@ -1,0 +1,11 @@
+info\revenberg\javalibrary\domain\RestErrorInfo.class
+info\revenberg\javalibrary\domain\Vers.class
+info\revenberg\javalibrary\domain\Bundle.class
+info\revenberg\javalibrary\domain\line\FindLinesInImage.class
+info\revenberg\javalibrary\domain\ResourceSupport.class
+info\revenberg\javalibrary\domain\Song.class
+info\revenberg\javalibrary\domain\AuditModel.class
+info\revenberg\javalibrary\domain\line\ImageDefinition.class
+info\revenberg\javalibrary\domain\TempFile.class
+info\revenberg\javalibrary\domain\line\ImageProcess.class
+info\revenberg\javalibrary\domain\Line.class
